@@ -9,3 +9,6 @@ The Loan Processing API exposes two key endpoints to retrieve loan information:
 **GetPaidAndAwaitingLoansSummary**: Fetches a summary of loans with the statuses Paid and AwaitingPayment, including each loan's percentage of the total amount.
 
 These endpoints are defined in the LoanController and interact with the service layer to gather the necessary data.
+
+## Database relations
+![image](https://github.com/user-attachments/assets/17b5fdaa-bcb2-49ae-b318-072a53adf8cc)
