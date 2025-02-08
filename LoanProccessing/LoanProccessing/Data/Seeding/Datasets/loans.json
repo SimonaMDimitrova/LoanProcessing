@@ -1,0 +1,123 @@
+[
+  {
+    "Amount": 1000,
+    "LoanNumber": "100001",
+    "Status": "Paid",
+    "RequestedOn": "2024-01-25T12:00:00Z",
+    "Client": {
+      "FirstName": "John",
+      "SecondName": "A.",
+      "LastName": "Doe"
+    },
+    "Invoices": [
+      {
+        "Amount": 200,
+        "InvoiceNumber": "5000"
+      },
+      {
+        "Amount": 50,
+        "InvoiceNumber": "5001"
+      }
+    ]
+  },
+  {
+    "Amount": 5000,
+    "LoanNumber": "100002",
+    "Status": "AwaitingPayment",
+    "RequestedOn": "2024-01-20T14:30:00Z",
+    "Client": {
+      "FirstName": "Jane",
+      "SecondName": "B.",
+      "LastName": "Smith"
+    },
+    "Invoices": [
+      {
+        "Amount": 1000,
+        "InvoiceNumber": "6000"
+      }
+    ]
+  },
+  {
+    "Amount": 3000,
+    "LoanNumber": "100003",
+    "Status": "Created",
+    "RequestedOn": "2024-02-01T09:45:00Z",
+    "Client": {
+      "FirstName": "Alice",
+      "SecondName": "C.",
+      "LastName": "Johnson"
+    },
+    "Invoices": []
+  },
+  {
+    "Amount": 750,
+    "LoanNumber": "100004",
+    "Status": "Paid",
+    "RequestedOn": "2024-01-15T11:15:00Z",
+    "Client": {
+      "FirstName": "Bob",
+      "SecondName": "D.",
+      "LastName": "Williams"
+    },
+    "Invoices": [
+      {
+        "Amount": 250,
+        "InvoiceNumber": "7000"
+      },
+      {
+        "Amount": 50,
+        "InvoiceNumber": "7001"
+      }
+    ]
+  },
+  {
+    "Amount": 2000,
+    "LoanNumber": "100005",
+    "Status": "AwaitingPayment",
+    "RequestedOn": "2024-01-28T16:20:00Z",
+    "Client": {
+      "FirstName": "Charlie",
+      "SecondName": "E.",
+      "LastName": "Brown"
+    },
+    "Invoices": [
+      {
+        "Amount": 500,
+        "InvoiceNumber": "8000"
+      }
+    ]
+  },
+  {
+    "Amount": 1200,
+    "LoanNumber": "100006",
+    "Status": "Created",
+    "RequestedOn": "2024-02-05T10:10:00Z",
+    "Client": {
+      "FirstName": "David",
+      "SecondName": "F.",
+      "LastName": "Martinez"
+    },
+    "Invoices": []
+  },
+  {
+    "Amount": 4500,
+    "LoanNumber": "100007",
+    "Status": "Paid",
+    "RequestedOn": "2024-01-12T08:00:00Z",
+    "Client": {
+      "FirstName": "Emma",
+      "SecondName": "G.",
+      "LastName": "Garcia"
+    },
+    "Invoices": [
+      {
+        "Amount": 1500,
+        "InvoiceNumber": "9000"
+      },
+      {
+        "Amount": 1000,
+        "InvoiceNumber": "9001"
+      }
+    ]
+  }
+]
